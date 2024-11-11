@@ -1,2 +1,0 @@
-# zerodha
-Online Trading Platform
